@@ -32,10 +32,12 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A true discourse of all the sallyes which the soldiers of the citie of Graue haue made since the sie
+
 #####Body#####
 
-1. Extract of a Letter, written by a man of worship out of Nimingem, the fist of September, to his friend in London.
+1. A true discourse of all the Sallyes which the Soldiers of the City of Graue haue made since the Siedge: and in what manner the Admirant with a great Hoast of horse and foote, with diuers waggons laden with ladders, powder, shot, and other necessaries of reliefe, came to relieue the Citty, the 20. of August, 〈◊〉〈◊〉 in the night: But was by Gods prouidence and his Excellencyes valour, dryuen backe, and forced in the night to fire his owne Tents, and to take a shamefull flight.
+
+    _ Extract of a Letter, written by a man of worship out of Nimingem, the fist of September, to his friend in London.
 
 **Types of content**
 
